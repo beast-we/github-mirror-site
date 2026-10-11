@@ -25,9 +25,6 @@ https://你的域名/
 
 | 功能 | 地址 |
 |---|---|
-| 仓库页 | `https://你的域名/owner/repo` |
-| 代码页 | `https://你的域名/owner/repo/blob/main/x.py` |
-| Raw 文件 | `https://你的域名/owner/repo/raw/main/x.py` |
-| Raw 文件 | `https://你的域名/raw/owner/repo/main/x.py` |
-| 克隆仓库 | `git clone https://你的域名/owner/repo.git` |
-| 健康检查 | `https://你的域名/healthz` |
+| 仓库页 | `把github域名替换成你的域名` |
+| 代码页 | `把github域名替换成你的域名` |
+| Raw 文件 | `把github域名替换成你的域名` |
