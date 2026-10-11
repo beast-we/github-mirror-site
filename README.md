@@ -1,4 +1,4 @@
-# Gh-Mirror
+# github-mirror-site
 
 基于 Cloudflare Workers 的 GitHub 镜像站。
 
